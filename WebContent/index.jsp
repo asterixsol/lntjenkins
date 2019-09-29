@@ -7,6 +7,6 @@
 <title>LnT Devops Training</title>
 </head>
 <body>
- <h1><center>This is deployed on Tomcat</center></h1>
+ <h1><center><b>This is my new deployment<b></center></h1>
 </body>
 </html>
